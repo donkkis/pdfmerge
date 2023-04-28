@@ -1,0 +1,2 @@
+pyinstaller==5.10.1       
+pypdf==3.8.1        
